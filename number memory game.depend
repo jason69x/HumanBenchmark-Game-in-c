@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1596514311 source:e:\programs\asdg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sodium.h>
+	<windows.h>
+	<rlutil.h>
+

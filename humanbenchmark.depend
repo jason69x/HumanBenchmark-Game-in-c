@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1598187023 source:e:\programs\asdg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1596976249 source:e:\programs\asdg\numbermemorytest.c
+	<stdio.h>
+	<stdlib.h>
+	<sodium.h>
+	<rlutil.h>
+	<conio.h>
+	<unistd.h>
+
+1598286839 source:e:\programs\asdg\typing test.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1597072997 source:e:\programs\asdg\visualmemory.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1596860793 source:e:\programs\asdg\reactiontimetest.c
+
+1596861018 source:e:\programs\asdg\reactiontime.cpp
+	<GL/glut.h>
+
+1597036240 source:e:\programs\asdg\reactime.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1598884375 source:c:\programs\asdg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1598884386 source:c:\programs\asdg\numbermemorytest.c
+	<stdio.h>
+	<stdlib.h>
+	<sodium.h>
+	<rlutil.h>
+	<conio.h>
+	<unistd.h>
+
+1598884406 source:c:\programs\asdg\reactime.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1598884361 source:c:\programs\asdg\typing test.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1598884351 source:c:\programs\asdg\visualmemory.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1598884208 c:\programs\asdg\headerfile.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<sodium.h>
+	<rlutil.h>
+	<unistd.h>
+	<time.h>
+	<string.h>
+
+1598884250 source:c:\programs\asdg\fundef.c
+	"headerfile.h"
+
+1598885366 source:c:\users\abhisar\desktop\new folder\programs\programs\asdg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1598885367 source:c:\users\abhisar\desktop\new folder\programs\programs\asdg\numbermemorytest.c
+	<stdio.h>
+	<stdlib.h>
+	<sodium.h>
+	<rlutil.h>
+	<unistd.h>
+	<conio.h>
+
+1598885341 source:c:\users\abhisar\desktop\new folder\programs\programs\asdg\reactime.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1598885368 source:c:\users\abhisar\desktop\new folder\programs\programs\asdg\typing test.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+
+1598885369 source:c:\users\abhisar\desktop\new folder\programs\programs\asdg\visualmemory.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
